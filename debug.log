@@ -1,0 +1,18 @@
+[1109/004439.714:ERROR:crash_report_database_win.cc(550)] GetFileAttributes C:\Users\NICK\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1109/004439.720:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1109/004439.773:ERROR:crash_report_database_win.cc(550)] GetFileAttributes C:\Users\NICK\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1109/004442.129:ERROR:crash_report_database_win.cc(550)] GetFileAttributes C:\Users\NICK\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1109/004442.134:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1109/004442.136:ERROR:crash_report_database_win.cc(550)] GetFileAttributes C:\Users\NICK\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1109/010641.832:ERROR:crash_report_database_win.cc(550)] GetFileAttributes C:\Users\NICK\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1109/010641.903:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1109/010641.938:ERROR:crash_report_database_win.cc(550)] GetFileAttributes C:\Users\NICK\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1109/010643.941:ERROR:crash_report_database_win.cc(550)] GetFileAttributes C:\Users\NICK\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1109/010643.946:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1109/010643.948:ERROR:crash_report_database_win.cc(550)] GetFileAttributes C:\Users\NICK\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1109/013415.223:ERROR:crash_report_database_win.cc(550)] GetFileAttributes C:\Users\NICK\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1109/013415.228:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1109/013415.229:ERROR:crash_report_database_win.cc(550)] GetFileAttributes C:\Users\NICK\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1109/013415.426:ERROR:crash_report_database_win.cc(550)] GetFileAttributes C:\Users\NICK\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1109/013415.435:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1109/013415.437:ERROR:crash_report_database_win.cc(550)] GetFileAttributes C:\Users\NICK\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
