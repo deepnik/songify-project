@@ -1,4 +1,4 @@
 # Songify
 
-A Web Music Player
+A Web Music Player.
 
